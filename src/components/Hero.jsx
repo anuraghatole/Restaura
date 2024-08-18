@@ -23,7 +23,6 @@ const Hero = () => {
           <p className=" text-white p-4 text-lg tracking-tighter">Paris</p>
         </div>
       </section>
-      ;
     </>
   );
 };
